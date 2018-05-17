@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kotlinCalculator</string>
+
+    <string-array name="operations">
+        <item> choose an operation to perform </item>
+        <item> + </item>
+        <item> - </item>
+        <item> * </item>
+        <item> / </item>
+
+    </string-array>
+</resources>

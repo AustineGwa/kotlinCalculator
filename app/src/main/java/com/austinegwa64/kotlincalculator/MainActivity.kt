@@ -30,9 +30,11 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        var opType = operation.selectedItem.toString()
+
 
         fun calculate() : Int {
+
+            var opType = operation.selectedItem.toString()
 
             var value1 = Integer.parseInt(val1.text.toString())
             var value2 = val2.text.toString().toInt()
